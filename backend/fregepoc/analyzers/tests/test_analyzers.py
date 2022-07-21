@@ -37,6 +37,10 @@ class TestAnalyzers:
                 {"repo_relative_file_path": "dijkstra.rs"},
             ),
             (
+                ProgrammingLanguages.C_SHARP,
+                {"repo_relative_file_path": "factorial.cs"},
+            ),
+            (
               ProgrammingLanguages.GOLANG,
               {"repo_relative_file_path": "avl_tree.go"}
             ),
